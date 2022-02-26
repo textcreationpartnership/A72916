@@ -1,0 +1,674 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantvs. Of Thomas Morley the first booke of canzonets to two voyces</title>
+            <title>Canzonets, voices (2)</title>
+            <author>Morley, Thomas, 1557-1603?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72916</idno>
+            <idno type="STC">STC 18120</idno>
+            <idno type="STC">ESTC S123175</idno>
+            <idno type="EEBO-CITATION">99900262</idno>
+            <idno type="PROQUEST">99900262</idno>
+            <idno type="VID">150708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150708)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1973:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cantvs. Of Thomas Morley the first booke of canzonets to two voyces</title>
+                  <title>Canzonets, voices (2)</title>
+                  <author>Morley, Thomas, 1557-1603?</author>
+                  <author>Morley, Thomas, 1557-1603? Tenor. Of Thomas Morley the first booke of canzonets to two voyces.</author>
+               </titleStmt>
+               <extent>[56] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Snodham, for Matthew Lownes and Iohn Browne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M. DC XIX. [1619]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two partbooks, each with separate dated title page and register. At head of title, part 1, "Cantus."; part 2, "Tenor.".</note>
+                  <note>The roman numeral date is made with turned C's.</note>
+                  <note>Signatures: [A]²  B-D⁴; [A]²  B-D⁴.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  17th century.</term>
+               <term>Part-songs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:150708:1" rendition="simple:additions"/>
+                  <p>CANTVS. OF THOMAS MORLEY</p>
+                  <p>THE FIRST BOOKE OF CANZONETS TO TWO VOYCES.</p>
+                  <figure>
+                     <figDesc>printer's or publisher's device</figDesc>
+                  </figure>
+                  <p>
+                     <hi>LONDON:</hi> Printed by <hi>Thomas Snodham</hi> for <hi>Matthew Lownes</hi> and <hi>Iohn Browne.</hi>
+                  </p>
+                  <p>M.DCXIX.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:150708:2"/>
+                  <pb facs="tcp:150708:2"/>
+                  <head>TO THE MOST VERTV<g ref="char:EOLhyphen"/>OVS AND GENTLE LADIE THE LADIE PERIAM.</head>
+                  <opener>
+                     <salute>
+                        <seg rend="decorInit">L</seg>OE heere, moſt worthy Ladie,</salute>
+                  </opener>
+                  <p>theſe Canzonets of mine, like two wayting maydes deſiring to attend vpon you; deſtinated by my Wife (euen before they were borne) vnto your Ladiſhips ſeruice. Not that for any great good or bewtie in them ſhee thought them worthy of you: but that not being able as heretofore ſtill to ſerue you; ſhe would that theſe therefore with their preſence ſhould make good and ſupply that hir abſence. For hir ſake then vouchſafe, gentle Ladie, to en<g ref="char:EOLhyphen"/>tertain them; hauing no other thing to commend them to you for, but this that they are Virgins, neuer yet hauing once been out at doores, nor ſeene the faſhions of the world abroad. And therefore notwithſtanding per<g ref="char:EOLhyphen"/>haps in the higheſt degree they ſhall not ſatisfie you: yet if they ſhall but in any ſort content you; I know that the greateſt fault you will finde in them ſhall be for their ſmaleneſſe. And ſo good Madame I ceaſe further to trouble: but not ſtill to ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rue and honor you.</p>
+                  <closer>
+                     <signed>Your Ladieſhips Euer to commaund Thomas Morley.</signed>
+                  </closer>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:150708:3"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <head>CANZONETS.</head>
+                     <item>FYre and lightning. XI</item>
+                     <item>Flora wilt thou torment me? XIII</item>
+                     <item>Goe ye my Canzonets. I</item>
+                     <item>I goe before my darling V</item>
+                     <item>In nets of goulden wyer. XV</item>
+                     <item>I ſhould for griefe &amp; anguiſh. XIX</item>
+                     <item>Lo heere another loue. VIII</item>
+                     <item>Leaue now mine eyes. X</item>
+                     <item>I Miraculous. VII</item>
+                     <item>O thou that art ſo cruell. XVII</item>
+                     <item>Sweet Nimphe. III</item>
+                     <item>When loe by break of morning. II</item>
+                  </list>
+                  <list>
+                     <head>FANTASIES.</head>
+                     <item>IL Doloroso. IIII</item>
+                     <item>La Girandola. VI</item>
+                     <item>La Rondinella. IX</item>
+                     <item>Il Grillo. XII</item>
+                     <item>Il Lamento. XIIII</item>
+                     <item>La Caccia. XVI</item>
+                     <item>La Sampogna. XVIII</item>
+                     <item>La Sirena. XX</item>
+                     <item>La Tortorella. XXI</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </front>
+            <body>
+               <div type="part_book">
+                  <pb facs="tcp:150708:3"/>
+                  <div n="1" type="canzonet">
+                     <head>I. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">G</seg>OE yee my Canzonets to my deer dar╌ling, ij. Goe ye my Canzo<g ref="char:EOLhyphen"/>nets to my deer dar╌ling, to my deere darling, and with your gentle dainty ſweet ac<g ref="char:EOLhyphen"/>centings, deſire her to vouchſafe theſe my la╌mentings, ij. And with a crownet, of hir rayes ſupernall, T'adorne your locks and make your name eter╌nall ij. And with a crownet of hir rayes ſupernall, T'adorne your locks and make your name eter╌nall. ij. </p>
+                  </div>
+                  <div n="2" type="canzonet">
+                     <pb facs="tcp:150708:4"/>
+                     <head>II. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">W</seg>Hen loe, by breake of mor╌ning. ij. My loue hir ſelfe ador╌ning, ij. When loe, by breake of morning, ij. When loe, by breake of morning, My loue hir ſelfe a╌dor╌ning, ij. Doth walk the woods ſo daintie, Gathering ſweet Violets &amp; Cowſlips plenty, ij. ſweet Violets and Cowſlips plen╌ty, The birds enamour'd, ij. ſing and praiſe my Flora, Loe heere new Aurora. Loe heere a new Auro╌ra. The birds en<g ref="char:EOLhyphen"/>amor'd,
+<pb facs="tcp:150708:4"/> ij ſing and praiſe my Flora, Loe heere a new Aurora. ij. Loe heere a new Auro╌ra.</p>
+                  </div>
+                  <div n="3" type="canzonet">
+                     <pb facs="tcp:150708:5"/>
+                     <head>III. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">S</seg>Weet Nimphe come to thy louer, to thy louer, ij.</p>
+                     <p>Loe heere alone ij. our loues wee may diſcouer, ſweet Nimphe come to thy louer, to thy louer, ij, lo here alone ij. our loues wee may diſco<g ref="char:EOLhyphen"/>uer, Where the ſweet Nightingale with wan╌ton, with wanton glo<g ref="char:EOLhyphen"/>ſes, hark hir loue to diſclo╌ſes, to diſclo╌ſes, ij. where the ſweet Nightingale with wan╌ton, with wanton glo<g ref="char:EOLhyphen"/>ſes, hark hir loue to diſclo╌ſes, to diſcloſes. ij.</p>
+                  </div>
+                  <div n="4" type="fantasia">
+                     <pb facs="tcp:150708:5"/>
+                     <head>IIII. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: Il doloroso?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="5" type="canzonet">
+                     <pb facs="tcp:150708:6"/>
+                     <head>V. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">I</seg> Goe before my dar╌ling, ij. I goe before my dar╌ling, ij. I goe before my dar╌ling, ij. Follow thou to the bowre in the cloſe al╌ley, Ther wee will together, Sweetly kiſſe each eyther, And like two wantons, Dally dally dally dally dally dally dally dally dally dally dally dally dally dally dal╌ly. There wee will toge╌ther Sweetly kiſſe each eyther, And like two wan╌tons, Dally dally dally dally dally dally dally dally dally dally dally dally dally.</p>
+                  </div>
+                  <div n="6" type="fantasia">
+                     <pb facs="tcp:150708:6"/>
+                     <head>VI. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Girandola?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="7" type="canzonet">
+                     <pb facs="tcp:150708:7"/>
+                     <head>VII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Iraculous loues wounding, loues wounding, Miraculous loues woun╌ding ij. Miraculous loues wounding, ij. Mi<g ref="char:EOLhyphen"/>raculous loues woun╌ding, Euen thoſe darts my ſweet Phillis, ij. So fiercly ſhot againſt my hart╌rebounding, re╌boun<g ref="char:EOLhyphen"/>ding. Are turnd to Roſes, Violets and Lillies, Violets &amp; Lil<g ref="char:EOLhyphen"/>lies with odour ſweet a╌bounding, ſweet abounding, With odour ſweet aboun╌ding. Miraculous loues wounding ij.
+<pb facs="tcp:150708:7"/> Miraculous loues woun╌ding, Miraculous loues wounding, loues wounding, ij. Miraculous loues woun<g ref="char:EOLhyphen"/>ding.</p>
+                  </div>
+                  <div n="8" type="canzonet">
+                     <pb facs="tcp:150708:8"/>
+                     <head>VIII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>OE heere another loue, ij. from heauen deſen╌ded, ij. Loe heere another loue, ij. from heauen de╌ſended, ij. That with forces a new and with new dar╌ting doth wound the heart, ij. and yet doth breed no ſmarting, doth wound the hart, and yet doth breed no ſmarting, no ſmarting. That with forces a new and with new dar<g ref="char:EOLhyphen"/>ting, doth wound the hart, ij. and yet doth breed, doth breed no ſmarting, doth wound the hart and yet doth breed no ſmar<g ref="char:EOLhyphen"/>ting.</p>
+                  </div>
+                  <div n="9" type="fantasia">
+                     <pb facs="tcp:150708:8"/>
+                     <head>IX. CANTVS</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Rondinella:</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="10" type="canzonet">
+                     <pb facs="tcp:150708:9"/>
+                     <head>X. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Eaue now mine eyes lamen╌ting, your teares, your teares do but augment, augment this my lamen╌ting, Leaue now mine eyes lamenting, your teares doe but augment this my lamen<g ref="char:EOLhyphen"/>ting, this my lamen╌ting, Death, death come thou, death come thou relieue me, ij. Death come thou relieue mee, Alas to liue forſaken thus doth grieue me, Ah ſee now where he ly<g ref="char:EOLhyphen"/>eth, Ah ſee, ſee now where hee ly╌eth, hee ly╌eth, Then farewel falſe vnkinde, farewell thy Flora dy╌eth, Death, Death come thou, Death come thou reliue mee, ij. Death come thou relieue mee, A╌las to line forſaken
+<pb facs="tcp:150708:9"/> thus doth grieue mee, Ah ſee now where he lyeth, Ah ſee, ſee now where he ly╌eth, hee ly╌eth, Then farewell falſe vnkinde, farewell thy Flora dy╌eth.</p>
+                  </div>
+                  <div n="11" type="canzonet">
+                     <pb facs="tcp:150708:10"/>
+                     <head>XI. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Yre and lightning from heauen fall, ij. And ſwet╌ly en╌flame that heart with loue arightfull, Fyre and lightning from heauen fall, ij. And ſweet╌ly en<g ref="char:EOLhyphen"/>flame that hart with loue arightfull, of Flora my delight╌full, ij. of Flora my delight╌full, So faire but yet ſo ſpightfull, of Flora my de<g ref="char:EOLhyphen"/>lightfull ij. of Flora my delight╌full, So faire but yet ſo ſpightfull.</p>
+                  </div>
+                  <div n="12" type="fantasia">
+                     <pb facs="tcp:150708:10"/>
+                     <head>XII. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: Il Grillo?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="13" type="canzonet">
+                     <pb facs="tcp:150708:11"/>
+                     <head>XIII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Lora wilt thou torment mee, And yet muſt I content mee, Flora wilt thou torment mee, And yet muſt I content mee, And ſhall I haue no plea╌ſure, ij. Of that thy beauties treaſure, Lo then, Lo then I dye &amp; dying thus complaine me, ij. Flora gentle and faire, Alas hath ſlaine mee, ij. a╌las hath ſlaine mee, ij. a╌las hath ſlaine mee, Flora gentle and faire, a╌las hath ſlaine mee, ij. a╌las hath ſlaine mee, ij. a╌las hath ſlaine mee. </p>
+                  </div>
+                  <div n="14" type="fantasia">
+                     <pb facs="tcp:150708:11"/>
+                     <head>XIIII. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: Il Eamento?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="15" type="canzonet">
+                     <pb facs="tcp:150708:12"/>
+                     <head>XV. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N nets of golden wy╌ers, ij. With Pearle and Rubie ſpangled, ij. My heart entangled, ij. Cries and help requiers, ij. Cries &amp; help requiers, ij. Sweet loue, from out thoſe bryers, But thou vouchſafe to free me, Ere long aliue, ij. a╌las thou ſhalt not ſee me. ij. a╌las thou ſhalt not ſee me. Ere long aliue, ij. a╌las thou ſhalt not ſee mee. ij. alas thou ſhalt not ſee mee. </p>
+                  </div>
+                  <div n="16" type="fantasia">
+                     <pb facs="tcp:150708:12"/>
+                     <head>XVI. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Caccia?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="17" type="canzonet">
+                     <pb facs="tcp:150708:13"/>
+                     <head>XVII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou that art ſo cru╌ell, My dainty louely iew╌ell, ij. O thou that art ſo cru╌ell, My dainty louely iew╌ell, ij. Why thus in my tormenting, Doſt thou ſtill vſe re╌len╌ting? ij. A╌las right out come ſlay mee, Doe not thus ſtill from time to time delay mee, ij. Doe not thus ſtill from time to time delay mee, ij. A<g ref="char:EOLhyphen"/>las right out come ſlay mee, Doe not thus ſtill from time to time delay mee, ij. Doe not thus ſtill from time to time delay mee. ij.</p>
+                  </div>
+                  <div n="18" type="fantasia">
+                     <pb facs="tcp:150708:13"/>
+                     <head>XVIII. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Sampogna? </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="19" type="canzonet">
+                     <pb facs="tcp:150708:14"/>
+                     <head>XIX. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> Should for griefe and anguiſh dye recure╌les, ij. I ſhould for griefe and an<g ref="char:EOLhyphen"/>guiſh dye recure╌les, ij. That day I miſt my Flota I faire, and ſightly, Cleerer then is the Sun, that ſhines ſo brightly. ij. that ſhines ſo bright╌ly. ij. That day I miſt my Flora faire and ſightly, Cleerer then is the ſunne, that ſhines ſo brightly. ij. that ſhines ſo bright╌ly. ij.</p>
+                  </div>
+                  <div n="20" type="fantasia">
+                     <pb facs="tcp:150708:14"/>
+                     <head>XX. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Sirena?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="21" type="canzonet">
+                     <pb facs="tcp:150708:15"/>
+                     <head>XXI. CANTVS.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Torello?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="table_of_contents">
+                  <pb facs="tcp:150708:15"/>
+                  <p>TENOR. OF THOMAS MORLEY</p>
+                  <p>THE FIRST BOOKE OF CANZONETS TO TWO VOYCES.</p>
+                  <figure>
+                     <figDesc>printer's or publisher's device</figDesc>
+                  </figure>
+                  <p>
+                     <hi>LONDON:</hi> Printed by <hi>Thomas Snodham,</hi> for <hi>Matthew Lownes</hi> and <hi>Iohn Browne.</hi>
+                  </p>
+                  <p>M.DCXIX.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:150708:16"/>
+                  <pb facs="tcp:150708:16"/>
+                  <head>TO THE MOST VERTV<g ref="char:EOLhyphen"/>OVS AND GENTLE LADIE THE LADIE PERIAM.</head>
+                  <opener>
+                     <salute>
+                        <seg rend="decorInit">L</seg>OE heere, moſt worthy Ladie,</salute>
+                  </opener>
+                  <p>theſe Canzonets of mine, like two wayting╌maydes deſiring to attend vpon you; deſtinated by my Wife (euen before they were borne) vnto your Ladiſhips ſeruice. Not that for any great good or bewtie in them ſhee thought them worthy of you: but that not being able as heretofore ſtill to ſerue you; ſhe would that theſe therefore with their preſence ſhould make good and ſupply that hir abſence. For hir ſake then vouchſafe, gentle Ladie, to en<g ref="char:EOLhyphen"/>tertain them; hauing no other thing to commend them to you for, but this that they are Virgins, neuer yet hauing once been out at doores, nor ſeene the faſhions of the world abroad. And therefore notwithſtanding per<g ref="char:EOLhyphen"/>hape in the higheſt degree they ſhall not ſatisfie you: yet if they ſhall but in any ſort content you; I know that the greateſt fault you will finde in them ſhall be for their ſmaleneſſe. And ſo good Madame I ceaſe further to trouble: but not ſtill to ſerue and honor you.</p>
+                  <closer>
+                     <signed>Your Ladieſhips Euer to commaund Thomas Morley.</signed>
+                  </closer>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:150708:17"/>
+                  <head>THE TABLE.</head>
+                  <list>
+                     <head>CANZONETS.</head>
+                     <item>FYre and lightning. XI</item>
+                     <item>Flora wilt thou torment me? XIII</item>
+                     <item>Goe ye my Canzonets. I</item>
+                     <item>I goe before my darling. V</item>
+                     <item>In nets of goulden wyer. XV</item>
+                     <item>I ſhould for griefe &amp; anguiſh. XIX</item>
+                     <item>Lo heere another loue. VIII</item>
+                     <item>Leaue now mine eyes. X</item>
+                     <item>Miraculous. VII</item>
+                     <item>O thou that art ſo cruell. XVII</item>
+                     <item>Sweet Nimphe. III</item>
+                     <item>When loe by break of morning. II</item>
+                  </list>
+                  <list>
+                     <head>FANTASIES.</head>
+                     <item>IL Doloroso. IIII</item>
+                     <item>La Girandola. VI</item>
+                     <item>La Rondinella. IX</item>
+                     <item>Il Grillo. XII</item>
+                     <item>Il Lamento. XIIII</item>
+                     <item>La Caccia. XVI</item>
+                     <item>La Sampogna. XVIII</item>
+                     <item>La Sirena. XX</item>
+                     <item>La Tortorella, XXI</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </front>
+            <body>
+               <div type="part_book">
+                  <pb facs="tcp:150708:17"/>
+                  <div n="1" type="canzonet">
+                     <head>I. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">G</seg>OE yee my Canzonets to my deer╌dar╌ling, ij. Goe ye my Canzo<g ref="char:EOLhyphen"/>nets to my deer dar╌ling, to my deere darling, and with your gentle dainty ſweet ac<g ref="char:EOLhyphen"/>centings, deſire her to vouchſafe theſe my la╌mentings, ij.And with a crownet, of hir rayes ſupernall, T'adorne your locks and make your name eter╌nall ij.And with a crownet of hir rayes ſupernall, T'adorne your locks and make your name eter╌nall. ij.</p>
+                  </div>
+                  <div n="2" type="canzonet">
+                     <pb facs="tcp:150708:18"/>
+                     <head>II. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hen loe, by breake of mor╌ning. ij. My loue hir ſelfe ador╌ning, ij. When loe, by breake of morning, ij. When loe, by breake of morning, My loue hir ſelfe a╌dor╌ning, ij. Doth walk the woods ſo daintie, Gathering ſweet Violets &amp; Cowſlips plenty, ij. ſweet Violets and Cowſlips plen╌ty, The birds enamour'd, ij. ſing and praiſe my Flora, Loe heere new Aurora. Loe heere a new Auro╌ra. The birds en<g ref="char:EOLhyphen"/>amor'd,
+<pb facs="tcp:150708:18"/>ij ſing and praiſe my Flora, Loe heere a new Aurora. ij. Loe heere a new Auro╌ra.</p>
+                  </div>
+                  <div n="3" type="canzonet">
+                     <pb facs="tcp:150708:19"/>
+                     <head>III. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Weet Nimphe come to thy louer, to thy louer, ij.Loe heere alone ij. our loues wee may diſcouer, ſweet Nimphe come to thy louer, to thy louer, ij, lo here alone ij. our loues wee may diſco<g ref="char:EOLhyphen"/>uer, Where the ſweet Nightingale with wan╌ton, with wanton glo<g ref="char:EOLhyphen"/>ſes, hark hir loue to diſclo╌ſes, to diſclo╌ſes, ij. where the ſweet Nightingale with wan╌ton, with wanton glo<g ref="char:EOLhyphen"/>ſes, hark hir loue to diſclo╌ſes, to diſcloſes. ij.</p>
+                  </div>
+                  <div n="4" type="fantasia">
+                     <pb facs="tcp:150708:19"/>
+                     <head>IIII. TENOR</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: Il doloroso?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="5" type="canzonet">
+                     <pb facs="tcp:150708:20"/>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> Goe before my dar╌ling, ij. I goe before my dar╌ling, ij. I goe before my dar╌ling, ij. Follow thou to the bowre in the cloſe al╌ley, Ther wee will together, Sweetly kiſſe each eyther, And like two wantons, Dally dally dally dally dally dally dally dally dally dally dally dally dally dally dal╌ly. There wee will toge╌ther Sweetly kiſſe each eyther, And like two wan╌tons, Dally dally dally dally dally dally dally dally dally dally dally dally dally.</p>
+                  </div>
+                  <div n="6" type="fantasia">
+                     <pb facs="tcp:150708:20"/>
+                     <head>VI. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Girandola?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="7" type="canzone">
+                     <pb facs="tcp:150708:21"/>
+                     <head>VII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Iraculous loues wounding, loues wounding, Miraculous loues woun╌ding ij. Miraculous loues wounding, ij. Mi<g ref="char:EOLhyphen"/>raculous loues woun╌ding, Euen thoſe darts my ſweet Phillis, ij. So fiercly ſhot againſt my hart╌rebounding, re╌boun<g ref="char:EOLhyphen"/>ding. Are turnd to Roſes, Violets and Lillies, Violets &amp; Lil<g ref="char:EOLhyphen"/>lies with odour ſweet a╌bounding, ſweet abounding, With odour ſweet aboun╌ding. Miraculous loues wounding ij.
+<pb facs="tcp:150708:21"/> Miraculous loues woun╌ding, Miraculous loues wounding, loues wounding, ij. Miraculous loues woun<g ref="char:EOLhyphen"/>ding.</p>
+                  </div>
+                  <div n="8" type="canzonet">
+                     <pb facs="tcp:150708:22"/>
+                     <head>VIII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>OE heere another loue, ij. from heauen deſen╌ded, ij. Loe heere another loue, ij. from heauen de╌ſended, ij. That with forces a new and with new dar╌ting doth wound the heart, ij. and yet doth breed no ſmarting, doth wound the hart, and yet doth breed no ſmarting, no ſmarting. That with forces a new and with new dar<g ref="char:EOLhyphen"/>ting, doth wound the hart, ij. and yet doth breed, doth breed no ſmarting, doth wound the hart and yet doth breed no ſmar<g ref="char:EOLhyphen"/>ting.</p>
+                  </div>
+                  <div n="9" type="fantasia">
+                     <pb facs="tcp:150708:22"/>
+                     <head>IX. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Rondinella:</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="10" type="canzonet">
+                     <pb facs="tcp:150708:23"/>
+                     <head>X. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Eaue now mine eyes lamen╌ting, your teares, your teares do but augment, augment this my lamen╌ting, Leaue now mine eyes lamenting, your teares doe but augment this my lamen<g ref="char:EOLhyphen"/>ting, this my lamen╌ting, Death, death come thou, death come thou relieue me, ij. Death come thou relieue mee, Alas to liue forſaken thus doth grieue me, Ah ſee now where he ly<g ref="char:EOLhyphen"/>eth, Ah ſee, ſee now where hee ly╌eth, hee ly╌eth, Then farewel falſe vnkinde, farewell thy Flora dy╌eth, Death, Death come thou, Death come thou reliue mee, ij. Death come thou relieue mee, A╌las to line forſaken
+<pb facs="tcp:150708:23"/>thus doth grieue mee, Ah ſee now where he lyeth, Ah ſee, ſee now where he ly╌eth, hee ly╌eth, Then farewell falſe vnkinde, farewell thy Flora dy╌eth.</p>
+                  </div>
+                  <div n="11" type="canzonet">
+                     <pb facs="tcp:150708:24"/>
+                     <head>XI. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> 
+                        <seg rend="decorInit">F</seg>Yre and lightning from heauen fall, ij. And ſwet╌ly en╌flame that heart with loue arightfull, Fyre and lightning from heauen fall, ij. And ſweet╌ly en<g ref="char:EOLhyphen"/>flame that hart with loue arightfull, of Flora my delight╌full, ij. of Flora my delight╌full, So faire but yet ſo ſpightfull, of Flora my de<g ref="char:EOLhyphen"/>lightfull ij. of Flora my delight╌full, So faire but yet ſo ſpightfull.</p>
+                  </div>
+                  <div n="12" type="fantasia">
+                     <pb facs="tcp:150708:24"/>
+                     <head>XII. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: Il Grillo?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="13" type="canzonet">
+                     <pb facs="tcp:150708:25"/>
+                     <head>XIII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Lora wilt thou torment mee, And yet muſt I content mee, Flora wilt thou torment mee, And yet muſt I content mee, And ſhall I haue no plea╌ſure, ij. Of that thy beauties treaſure, Lo then, Lo then I dye &amp; dying thus complaine me, ij. Flora gentle and faire, Alas hath ſlaine mee, ij. a╌las hath ſlaine mee, ij. a╌las hath ſlaine mee, Flora gentle and faire, a╌las hath ſlaine mee, ij. a╌las hath ſlaine mee, ij. a╌las hath ſlaine mee. </p>
+                  </div>
+                  <div n="14" type="fantasia">
+                     <pb facs="tcp:150708:25"/>
+                     <head>XIIII. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: Il Eamento? </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="15" type="canzonet">
+                     <pb facs="tcp:150708:26"/>
+                     <head>XV. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N nets of golden wy╌ers, ij. With Pearle and Rubie ſpangled, ij. My heart entangled, ij. Cries and help requiers, ij. Cries &amp; help requiers, ij. Sweet loue, from out thoſe bryers, But thou vouchſafe to free me, Ere long aliue, ij. a╌las thou ſhalt not ſee me. ij. a╌las thou ſhalt not ſee me. Ere long aliue, ij. a╌las thou ſhalt not ſee mee. ij. alas thou ſhalt not ſee mee. </p>
+                  </div>
+                  <div n="16" type="fantasia">
+                     <pb facs="tcp:150708:26"/>
+                     <head>XV. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Caccia?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="17" type="canzonet">
+                     <pb facs="tcp:150708:27"/>
+                     <head>XVII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Thou that art ſo cru╌ell, My dainty louely iew╌ell, ij. O thou that art ſo cru╌ell, My dainty louely iew╌ell, ij. Why thus in my tormenting, Doſt thou ſtill vſe re╌len╌ting? ij. A╌las right out come ſlay mee, Doe not thus ſtill from time to time delay mee, ij.</p>
+                     <p>Doe not thus ſtill from time to time delay mee, ij. A<g ref="char:EOLhyphen"/>las right out come ſlay mee, Doe not thus ſtill from time to time delay mee, ij. Doe not thus ſtill from time to time delay mee. ij.</p>
+                  </div>
+                  <div n="18" type="fantasia">
+                     <pb facs="tcp:150708:27"/>
+                     <head>XVIII. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Sampogna? </head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="19" type="canzonet">
+                     <pb facs="tcp:150708:28"/>
+                     <head>XIX. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> Should for griefe and anguiſh dye recure╌les, ij. I ſhould for griefe and an<g ref="char:EOLhyphen"/>guiſh dye recure╌les, ij. That day I miſt my Flota I faire, and ſightly, Cleerer then is the Sun, that ſhines ſo brightly. ij. that ſhines ſo bright╌ly. ij. That day I miſt my Flora faire and ſightly, Cleerer then is the ſunne, that ſhines ſo brightly. ij. that ſhines ſo bright╌ly. ij.</p>
+                  </div>
+                  <div n="20" type="fantasia">
+                     <pb facs="tcp:150708:28"/>
+                     <head>XX. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Sirena?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="21" type="canzonet">
+                     <pb facs="tcp:150708:29" rendition="simple:additions"/>
+                     <head>XX. TENOR.</head>
+                     <head type="sub">
+                        <seg rend="decorInit">F</seg>Antaſie: La Torello?</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
